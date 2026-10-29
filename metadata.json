@@ -1,0 +1,6 @@
+{
+  "name": "MedCore HMS",
+  "description": "Enterprise-grade Hospital Management System for patient care, clinical records, appointment scheduling, billing, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
